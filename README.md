@@ -150,16 +150,28 @@ This document outlines the steps to submit a support ticket using the internal h
 </p>
 <br />
 
-<p>
+Image 2 
+
 Photo of successful ticket creation from created user karen (https://github.com/user-attachments/assets/9c514a9e-ab80-41db-a103-8ab573ff32f0)
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+## 📷 Screenshot: osTicket - Ticket Confirmation Page
+
+### 🖼️ Description
+
+This screenshot shows the **ticket confirmation screen** from the `osTicket` Support Ticket System, as accessed through the browser. The screen confirms that a support ticket has been successfully created and submitted.
+
+---
+
+### ✅ Observations
+
+- The message displayed confirms ticket creation:
 </p>
 <br />
 
-<p>
+Image 3
+
 logging in os ticket as Anthony, observing seeing new ticket (https://github.com/user-attachments/assets/7e9fd69a-4340-48c3-a538-9ab34a6ab600)
 
 </p>
