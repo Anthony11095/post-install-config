@@ -28,52 +28,51 @@ Once osTicket is installed, use the Admin Panel to configure roles, departments,
   [http://localhost/osTicket](http://localhost/osTicket)
 
 ---
+## 🔧 Admin Panel Configuration (Roles, Teams, Agents)
 
-### 🧩 Admin Panel Configuration Steps
+---
 
-#### 1. Acknowledge Panel Differences
-- **Admin Panel**: Full configuration access
-- **Agent Panel**: Ticket handling interface only
+### 🧩 Role & Permission Setup
 
-#### 2. Configure Roles (for permission grouping)
+#### 1. Acknowledge Agent Panel vs Admin Panel
+- **Agent Panel:** Used by staff to manage and respond to tickets.
+- **Admin Panel:** Used for managing system settings, users, SLAs, help topics, and permissions.
+
+#### 2. Configure Roles
 Navigate to:  
 `Admin Panel → Agents → Roles`
-- Example Roles:
-  - `Supreme Admin`
-  - `SysAdmins`
+- Example Role: `Supreme Admin`
 
-#### 3. Configure Departments (Ticket Visibility & Routing)
+#### 3. Configure Departments
 Navigate to:  
 `Admin Panel → Agents → Departments`
-- Example Departments:
-  - `Help Desk`
-  - `SysAdmins`
-  - `Networking`
+- Example Department: `SysAdmins`  
+> Used to assign tickets to specific technical groups or support categories.
 
-#### 4. Configure Teams (Cross-department agent groups)
+#### 4. Configure Teams
 Navigate to:  
-`Admin Panel → Agents → Teams`
-- Example Team:
-  - `Online Banking`
+`Admin Panel → Agents → Teams`  
+> Teams can include agents from multiple departments.
+
+- Example Team: `Online Banking`
 
 #### 5. Adjust User Ticket Permissions
 Navigate to:  
 `Admin Panel → Settings → User Settings`
-- **Uncheck:**  
-  `Unregistered users can create tickets`
-- **Enable:**  
-  `Registration Required` — Forces users to register/login before submitting tickets
 
-#### 6. Add Agents (System Users/Workers)
+- **Uncheck:** `Unregistered users can create tickets`
+- **Enable:** `Registration Required` to force user authentication before ticket creation
+
+---
+
+### 👥 Add Agents (Support Staff)
 Navigate to:  
 `Admin Panel → Agents → Add New`
-- Example Agents:
-  - `Jane` (Dept: SysAdmins)
-  - `John` (Dept: Support)
 
-## 👥 Customer & Ticketing Configuration (Post-Install Setup)
+- `Jane` — Dept: `SysAdmins`
+- `Anthony` — Dept: `Support`
 
-After initial installation and admin setup, configure the following key components to enable structured customer interaction and ticket categorization.
+> These agents will be assigned tickets based on department or team routing.
 
 ---
 
