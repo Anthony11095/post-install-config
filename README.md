@@ -284,14 +284,78 @@ This is a **critical service-impacting issue** reported by the user. The mobile/
 
 ---
 
-
-
-
-
-
-
-
 ![photo of anthony documenting everything   assigning ticket to jane](https://github.com/user-attachments/assets/432b3c3f-e0f5-496c-bfb6-59b5c18e5deb)
+
+## 🧾 Ticket #593503 – Online/Mobile Banking System Outage
+
+### 📍 Issue Summary
+
+**Subject**: `entire mobile/online banking system is down`  
+**Reported by**: karen (karen@lognpacific.com)  
+**Date Created**: 4/3/25 at 12:08 AM  
+**Ticket Status**: Open → Resolved  
+**SLA Plan**: Upgraded to **SevA (1 hour SLA)**  
+**Assigned Technician**: Jane Doe  
+**Category**: Business Critical Outage
+
+---
+
+### 🧠 Description
+
+Customer reported a widespread issue where users are unable to access the online banking portal. Some users were intermittently able to access the system but could not log in.
+
+---
+
+### 📋 Timeline of Events
+
+| Timestamp        | User               | Action                                                                 |
+|------------------|--------------------|------------------------------------------------------------------------|
+| 4/3/25 12:08 AM  | karen              | Ticket created describing outage.                                     |
+| 4/3/25 12:26 AM  | Anthony Hamilton   | SLA Plan updated. Comment: "Wide impact. Customers unable to do online banking." |
+| 4/3/25 12:26 AM  | Anthony Hamilton   | SLA changed: `Default SLA (18h)` → `SevA (1h)`                        |
+| 4/3/25 12:28 AM  | Anthony Hamilton   | Help Topic changed: `Report a Problem` → `Business Critical Outage`   |
+| 4/3/25 12:31 AM  | Anthony Hamilton   | Assigned to Jane Doe. Noted impact on login functionality.            |
+| 4/3/25 12:40 AM  | Jane Doe           | Initial analysis: suspected recent updates as potential root cause.   |
+
+---
+
+### ✅ Resolution Steps
+
+1. **Investigation**:
+   - Jane Doe reviewed the recent system updates and patch deployments.
+   - Verified that update package `v3.2.15` had introduced authentication API schema changes.
+
+2. **Rollback**:
+   - Update `v3.2.15` was rolled back to stable version `v3.2.14`.
+   - Restarted authentication services and cleared active sessions.
+
+3. **Validation**:
+   - Internal QA confirmed that customers could now log in without issue.
+   - Status monitoring showed stable login/authentication metrics post-recovery.
+
+4. **Communication**:
+   - Notified user (karen@lognpacific.com) of resolution.
+   - Added post-mortem summary to internal log.
+   - Ticket marked as **Resolved** at 4/3/25 2:00 AM.
+
+---
+
+### 🧾 Final Resolution Entry (for ticket system)
+
+> **Resolution**:  
+> Authentication failure was caused by a schema incompatibility introduced in update `v3.2.15`. The update was rolled back, and normal service was restored.  
+> Ticket closed as **Resolved**. Monitored for 30 minutes with no recurrence.  
+> – Jane Doe, Systems Engineer
+
+---
+
+### 📌 Lessons Learned
+
+- Add pre-deployment compatibility checks to staging pipelines.
+- Review authentication update impacts on legacy mobile clients.
+- Document changes more clearly in internal update logs.
+
+---
 
 
 
