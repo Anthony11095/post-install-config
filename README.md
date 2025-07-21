@@ -176,11 +176,59 @@ logging in os ticket as Anthony, observing seeing new ticket (https://github.com
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+## 📸 Screenshot: osTicket Admin Panel – Ticket List View
+
+### 🖥️ Description
+
+This screenshot displays the **Tickets** section of the **osTicket Admin Panel**, showing submitted support tickets.
+
+---
+
+### 🔎 What’s Visible
+
+- Logged-in user: `Anthony`
+- Visible navigation tabs:
+  - Dashboard
+  - Users
+  - Tasks
+  - Tickets (active tab)
+  - Knowledgebase
+- Ticket filter set to: `Open` tickets
+- Total tickets displayed: 2
+
+---
+
+### 📋 Ticket Table Details
+
+| Ticket ID | Last Updated       | Subject                                        | From       | Priority | Assigned To |
+|-----------|--------------------|------------------------------------------------|------------|----------|--------------|
+| 593503    | 4/3/25 12:08 AM    | entire mobile/online banking system is down   | karen      | Normal   | (blank)      |
+| 196357    | 3/21/25 8:36 PM    | osTicket Installed!                            | osTicket Support | Normal | (blank)      |
+
+---
+
+### 📌 Notes
+
+- The first ticket, submitted by user `karen`, indicates a critical service issue affecting the mobile/online banking system.
+- The second ticket is likely a system-generated message confirming successful installation of osTicket.
+- The system is functioning as expected — capturing and listing incoming tickets properly.
+- The `Assigned To` column is blank, meaning no staff have yet been assigned to respond.
+
+---
+
+### ⚙️ System Info
+
+- Powered by: **osTicket**
+- Copyright footer: `© 2006–2025 Anthony’s Help Desk`
+- Accessed via browser with visible tabs indicating:
+  - Installation labs/checklists
+  - osTicket post-install docs
+  - Anki and ASVAB prep tools
+
+---
 </p>
 <br />
-
-
+Image 4 
 
 ![upgrading ticket priority to sev-a after reviewing ticket](https://github.com/user-attachments/assets/b4672a57-23a0-4f11-80f8-a172d42c3c7b)
 
