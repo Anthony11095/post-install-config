@@ -128,7 +128,8 @@ Navigate to:
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="![image](https://github.com/user-attachments/assets/90f10dcf-ab9c-478c-b3a6-28c59e7f4e1a)
+![creating ticket for help with bank information](https://github.com/user-attachments/assets/48e91b93-8187-44da-9871-69c9fb69c400)
+
 
 " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -138,7 +139,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![photo of successful ticket creation from created user karen](https://github.com/user-attachments/assets/9c514a9e-ab80-41db-a103-8ab573ff32f0)
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -146,9 +148,28 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![logging in os ticket as myself, observing   seeing new ticket](https://github.com/user-attachments/assets/7e9fd69a-4340-48c3-a538-9ab34a6ab600)
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+
+
+![upgrading ticket priority to sev-a after reviewing ticket](https://github.com/user-attachments/assets/b4672a57-23a0-4f11-80f8-a172d42c3c7b)
+
+
+
+
+
+
+
+
+
+![photo of anthony documenting everything   assigning ticket to jane](https://github.com/user-attachments/assets/432b3c3f-e0f5-496c-bfb6-59b5c18e5deb)
+
+
+
+
