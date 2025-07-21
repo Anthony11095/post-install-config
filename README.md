@@ -232,6 +232,57 @@ Image 4
 
 ![upgrading ticket priority to sev-a after reviewing ticket](https://github.com/user-attachments/assets/b4672a57-23a0-4f11-80f8-a172d42c3c7b)
 
+## 📝 Screenshot: osTicket Ticket View – Critical Service Disruption
+
+### 🎯 Ticket Overview
+
+This screenshot shows the detailed view of a support ticket inside the **osTicket Admin Panel**. The ticket highlights a reported issue with the mobile/online banking system being inaccessible.
+
+---
+
+### 📄 Ticket Metadata
+
+| Field              | Value                                 |
+|-------------------|---------------------------------------|
+| **Ticket ID**      | #593503                               |
+| **Subject**        | entire mobile/online banking system is down |
+| **Status**         | Open                                  |
+| **Priority**       | Normal                                |
+| **Department**     | Support                               |
+| **Create Date**    | 4/3/25 12:08 AM                        |
+| **Assigned To**    | Unassigned                            |
+| **SLA Plan**       | SEVA                                  |
+| **Due Date**       | 4/3/25 5:00 PM                         |
+| **User**           | karen                                 |
+| **Email**          | karen@lognpacific.com                 |
+| **Source**         | Web                                   |
+| **Help Topic**     | Report a Problem                      |
+| **Last Message**   | 4/3/25 12:08 AM                        |
+| **Last Response**  | —                                     |
+
+---
+
+### 💬 Message Thread
+
+> **karen posted 4/3/25 12:08 AM**  
+> *"My employees are reporting that users are no longer able to access the online banking portal. The ones who can occasionally access it, cannot log in."*
+
+---
+
+### ⚠️ Issue Summary
+
+This is a **critical service-impacting issue** reported by the user. The mobile/online banking system is down and inaccessible to end users. No technician has yet been assigned to the ticket, and the SLA deadline is later the same day.
+
+---
+
+### 🛠️ Action Items
+
+- Assign a technician to investigate and resolve the outage.
+- Check system logs for authentication or availability failures.
+- Communicate updates to the requester (`karen@lognpacific.com`).
+- Ensure the issue is resolved before the SLA due time (4/3/25, 5:00 PM).
+
+---
 
 
 
