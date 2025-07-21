@@ -137,7 +137,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-![photo of successful ticket creation from created user karen](https://github.com/user-attachments/assets/9c514a9e-ab80-41db-a103-8ab573ff32f0)
+Photo of successful ticket creation from created user karen (https://github.com/user-attachments/assets/9c514a9e-ab80-41db-a103-8ab573ff32f0)
 
 </p>
 <p>
@@ -146,7 +146,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-![logging in os ticket as myself, observing   seeing new ticket](https://github.com/user-attachments/assets/7e9fd69a-4340-48c3-a538-9ab34a6ab600)
+logging in os ticket as Anthony, observing seeing new ticket (https://github.com/user-attachments/assets/7e9fd69a-4340-48c3-a538-9ab34a6ab600)
 
 </p>
 <p>
