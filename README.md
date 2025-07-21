@@ -128,11 +128,25 @@ Navigate to:
 <h2>Configuration Steps</h2>
 
 Image 1
+
 Creating ticket with our created customer, karen (https://github.com/user-attachments/assets/48e91b93-8187-44da-9871-69c9fb69c400)
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+## 📋 Help Desk Ticket Submission - Issue Example
+
+This document outlines the steps to submit a support ticket using the internal help desk system (osTicket).
+
+### 🛠️ Instructions
+
+1. Open the internal help desk portal (e.g. `http://yourdomain.com/helpdesk`).
+2. Fill in the **Email Address** field with your corporate email.
+3. Enter your **Full Name**.
+4. (Optional) Add your **Phone Number** and **Extension**.
+5. Under **Help Topic**, select:  
+   `Report a Problem`
+6. In the **Issue Summary** field, describe the issue clearly.  
+   Example:  
 </p>
 <br />
 
