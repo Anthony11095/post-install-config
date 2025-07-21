@@ -22,11 +22,63 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+## 🛠️ osTicket Post-Installation Configuration (Admin Panel Setup)
+
+Once osTicket is installed, use the Admin Panel to configure roles, departments, agents, and user access settings for your helpdesk system.
+
+### 🔐 Access Panels
+- **Admin/Analyst Login Page:**  
+  [http://localhost/osTicket/scp/login.php](http://localhost/osTicket/scp/login.php)
+- **End User Portal:**  
+  [http://localhost/osTicket](http://localhost/osTicket)
+
+---
+
+### 🧩 Admin Panel Configuration Steps
+
+#### 1. Acknowledge Panel Differences
+- **Admin Panel**: Full configuration access
+- **Agent Panel**: Ticket handling interface only
+
+#### 2. Configure Roles (for permission grouping)
+Navigate to:  
+`Admin Panel → Agents → Roles`
+- Example Roles:
+  - `Supreme Admin`
+  - `SysAdmins`
+
+#### 3. Configure Departments (Ticket Visibility & Routing)
+Navigate to:  
+`Admin Panel → Agents → Departments`
+- Example Departments:
+  - `Help Desk`
+  - `SysAdmins`
+  - `Networking`
+
+#### 4. Configure Teams (Cross-department agent groups)
+Navigate to:  
+`Admin Panel → Agents → Teams`
+- Example Team:
+  - `Online Banking`
+
+#### 5. Adjust User Ticket Permissions
+Navigate to:  
+`Admin Panel → Settings → User Settings`
+- **Uncheck:**  
+  `Unregistered users can create tickets`
+- **Enable:**  
+  `Registration Required` — Forces users to register/login before submitting tickets
+
+#### 6. Add Agents (System Users/Workers)
+Navigate to:  
+`Admin Panel → Agents → Add New`
+- Example Agents:
+  - `Jane` (Dept: SysAdmins)
+  - `John` (Dept: Support)
+
+---
+
+✅ *This configuration ensures role-based access control, structured ticket routing, and secure ticket submission policies for a functional and scalable osTicket helpdesk.*- Item 1
 
 <h2>Configuration Steps</h2>
 
