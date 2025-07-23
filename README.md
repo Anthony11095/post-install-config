@@ -125,9 +125,9 @@ Navigate to:
 
 ✅ *These configurations ensure your osTicket helpdesk is aligned with organizational support priorities and ticket workflows, access control, and secure ticket submission policies for a functional and scalable osTicket helpdesk.*- Item 1
 
-<h2>Configuration Steps</h2>
+CONFIGURATION STEPS
 
-Image 1
+Image 1.
 
 Creating ticket with our created customer, karen (https://github.com/user-attachments/assets/48e91b93-8187-44da-9871-69c9fb69c400)
 
@@ -150,7 +150,7 @@ This document outlines the steps to submit a support ticket using the internal h
 </p>
 <br />
 
-Image 2 
+Image 2.
 
 Photo of successful ticket creation from created user karen (https://github.com/user-attachments/assets/9c514a9e-ab80-41db-a103-8ab573ff32f0)
 
@@ -170,7 +170,7 @@ This screenshot shows the **ticket confirmation screen** from the `osTicket` Sup
 </p>
 <br />
 
-Image 3
+Image 3.
 
 logging in os ticket as Anthony, observing seeing new ticket (https://github.com/user-attachments/assets/7e9fd69a-4340-48c3-a538-9ab34a6ab600)
 
@@ -228,7 +228,7 @@ This screenshot displays the **Tickets** section of the **osTicket Admin Panel**
 ---
 </p>
 <br />
-Image 4 
+Image 4.
 
 ![upgrading ticket priority to sev-a after reviewing ticket](https://github.com/user-attachments/assets/b4672a57-23a0-4f11-80f8-a172d42c3c7b)
 
@@ -283,7 +283,7 @@ This is a **critical service-impacting issue** reported by the user. The mobile/
 - Ensure the issue is resolved before the SLA due time (4/3/25, 5:00 PM).
 
 ---
-
+Image 5.
 ![photo of anthony documenting everything   assigning ticket to jane](https://github.com/user-attachments/assets/432b3c3f-e0f5-496c-bfb6-59b5c18e5deb)
 
 ## 🧾 Ticket #593503 – Online/Mobile Banking System Outage
