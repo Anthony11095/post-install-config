@@ -15,6 +15,18 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
+## ✅ Prerequisites
+
+- A virtual machine environment (e.g., VirtualBox or VMware)
+- Supported operating system installed (e.g., Windows Server or Ubuntu)
+- osTicket ZIP file downloaded from [https://osticket.com/download/](https://osticket.com/download/)
+- PHP installed
+- MySQL or MariaDB installed
+- IIS or Apache Web Server installed
+- Stable internet connection
+- Administrative access to the server
+- Text editor (e.g., VS Code, Notepad++)
+  
 CONFIGURATION STEPS
 
 Image 1.
