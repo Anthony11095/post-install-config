@@ -32,22 +32,22 @@ CONFIGURATION STEPS
 ## 🧾 osTicket Ticket Submission Walkthrough
 
 1. **Open a New Ticket**
-Creating ticket with our created customer, karen (https://github.com/user-attachments/assets/48e91b93-8187-44da-9871-69c9fb69c400)
-   Fill out the support form with the following details:
+![image](https://github.com/user-attachments/assets/b772e696-73c3-4389-8d4d-776e4a594fe7)
+  Fill out the support form with the following details:
    - Email: karen@lognpacific.com  
    - Full Name: Karen  
    - Help Topic: Report a Problem  
    - Issue Summary: entire mobile/online banking system is down  
 
 2. **Support Ticket Confirmation**
-Photo of successful ticket creation from created user karen (https://github.com/user-attachments/assets/9c514a9e-ab80-41db-a103-8ab573ff32f0)
-   A confirmation message appears stating:
-   - *"Support ticket request created"*
+![image](https://github.com/user-attachments/assets/64049df0-a2ad-45b0-a1a7-8ea539c2565f)
+  A confirmation message appears stating:
+- *"Support ticket request created"*
    - The user is informed a representative will respond if necessary.
 
 3. **Admin Panel - View Ticket List**
-logging in os ticket as Anthony, observing seeing new ticket (https://github.com/user-attachments/assets/7e9fd69a-4340-48c3-a538-9ab34a6ab600)
-   The admin can view the new ticket submitted by Karen in the Tickets tab.
+![image](https://github.com/user-attachments/assets/7a5fa555-8294-4db0-a7f4-ec4721e4e85b)
+ The admin can view the new ticket submitted by Karen in the Tickets tab.
    - The ticket appears with the subject: *entire mobile/online banking system is down*
 
 4. **Ticket Details Page**
